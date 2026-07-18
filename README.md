@@ -82,8 +82,7 @@
 
 ✔ Detection History
 
-🔗 Repository:
-(Add your repository link here)
+https://github.com/premspatil/conservation-ai
 
 ---
 
@@ -98,9 +97,6 @@
 ✔ Responsive UI
 
 ✔ Django ORM
-
-🔗 Repository:
-(Add repository link)
 
 ---
 
