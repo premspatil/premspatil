@@ -104,15 +104,6 @@
 
 ---
 
-## 📊 Data Analytics Projects
-
-- Retail Sales Analysis
-- Customer Segmentation
-- House Price Prediction
-- Fraud Detection
-
----
-
 # 📈 Currently Working On
 
 ✅ Python Projects
@@ -155,68 +146,18 @@
 
 ---
 
-# 🌟 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-[![Prem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
-
----
-
 # 🤝 Connect With Me
 
 <p>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/prem-patil-8291622b2">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:prem14patil@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
-
-# 💡 Quote
-
-> "Code. Learn. Build. Repeat."
-
----
-
-<p align="center">
-
-⭐ If you like my projects, don't forget to star them!
-
-</p>
