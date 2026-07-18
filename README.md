@@ -25,5 +25,5 @@ I'm a Computer Engineering graduate passionate about Python, Backend Development
 
 ## Contact
 
-LinkedIn: www.linkedin.com/in/prem-patil-8291622b2
-Email: prem14patil@gmail.com
+[LinkedIn](www.linkedin.com/in/prem-patil-8291622b2)
+[Email](prem14patil@gmail.com)
