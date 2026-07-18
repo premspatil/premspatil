@@ -150,7 +150,7 @@
 
 <p>
 
-<a href="www.linkedin.com/in/prem-patil-8291622b2">
+<a href="https://www.linkedin.com/in/prem-patil-8291622b2">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
