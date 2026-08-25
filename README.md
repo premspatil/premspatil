@@ -86,31 +86,32 @@ https://github.com/premspatil/conservation-ai
 
 ---
 
-## 🌐 Django Full Stack Project
+## 📝 Online Exam Portal
+### Web-Based Examination Management System
 
-✔ Authentication
+✔ Django
 
-✔ CRUD Operations
+✔ Python
 
-✔ MySQL Database
+✔ MySQL
 
-✔ Responsive UI
+✔ Student Registration & Login
 
-✔ Django ORM
+✔ Admin Dashboard
 
----
+✔ Student Dashboard
 
-# 📈 Currently Working On
+✔ Subject-wise Exams
 
-✅ Python Projects
+✔ Question Management
 
-✅ Django
+✔ Online Test System
 
-✅ REST APIs
+✔ Automatic Result Calculation
 
-✅ GitHub Portfolio
+✔ Percentage & Pass/Fail Status
 
-✅ Open Source Contributions
+✔ Student Result History
 
 ---
 
@@ -121,6 +122,8 @@ https://github.com/premspatil/conservation-ai
 🏆 Web Developer — Skill India
 
 🏆 Data Analytics Job Simulation — Tata Forage
+
+🏆 Python Python Full Stack — Kiran Acedemy
 
 ---
 
