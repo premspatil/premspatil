@@ -12,16 +12,14 @@
 
 # 💫 About Me
 
-🎓 Final Year Computer Engineering Student (2026)
+🎓 B.Tech Computer Engineering Graduate (2026)
 
 💻 Passionate Python Developer
 
 🌱 Currently Learning
-- Advanced Django
-- REST APIs
 - Docker
-- Deployment
-- Data Structures & Algorithms
+- React.js
+- AWS & Cloud Technologies
 
 🚀 Looking for
 - Python Developer Roles
