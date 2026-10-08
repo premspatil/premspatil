@@ -114,6 +114,41 @@ https://github.com/premspatil/conservation-ai
 https://github.com/premspatil/online-exam-portal
 
 ---
+## 💼 JobTrackr
+
+### Full-Stack Job Application Tracking System
+
+✔ Python
+
+✔ Django
+
+✔ Django REST Framework
+
+✔ React JS
+
+✔ MySQL
+
+✔ User Registration & Login
+
+✔ Job Application Management
+
+✔ Application Status Tracking
+
+✔ Job Search & Filtering
+
+✔ CRUD Operations
+
+✔ Interview & Follow-Up Tracking
+
+✔ Dashboard & Application Statistics
+
+✔ REST API Integration
+
+✔ MySQL Database Management
+
+https://github.com/premspatil/JobTrackr
+
+---
 
 # 📜 Certifications
 
