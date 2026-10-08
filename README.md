@@ -114,7 +114,7 @@ https://github.com/premspatil/conservation-ai
 https://github.com/premspatil/online-exam-portal
 
 ---
-## 💼 JobTrackr
+## 💼 JobTracker
 
 ### Full-Stack Job Application Tracking System
 
