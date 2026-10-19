@@ -195,6 +195,7 @@ AI PDF Question-Answering App (RAG)
 ✔ REST API Integration
 
 https://github.com/premspatil/ChatDoc
+
 ---
 
 # 📜 Certifications
