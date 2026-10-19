@@ -149,6 +149,33 @@ https://github.com/premspatil/online-exam-portal
 https://github.com/premspatil/JobTrackr
 
 ---
+ChatDoc
+AI PDF Question-Answering App (RAG)
+
+✔ Python
+✔ Django
+✔ Django REST Framework
+✔ React JS (Vite)
+✔ MySQL
+✔ ChromaDB (Vector Database)
+✔ Sentence Transformers (Embeddings)
+✔ PyMuPDF (PDF Text Extraction)
+✔ LLM Integration (OpenAI-Compatible API)
+✔ Retrieval-Augmented Generation (RAG)
+✔ User Registration & Login (Token Authentication)
+✔ PDF Upload with Validation & Duplicate Detection
+✔ Page-Wise Text Extraction & Smart Chunking
+✔ Semantic Search over Document Content
+✔ Answers with Page Number Citations & Source Snippets
+✔ Chat Sessions with Saved History & Follow-Up Questions
+✔ Document Management Dashboard
+✔ User-Level Data Isolation & Secure File Handling
+✔ Rate Limiting & LLM Error Handling
+✔ Automated Testing with Pytest (51 Tests)
+✔ REST API Integration
+
+https://github.com/premspatil/ChatDoc
+---
 
 # 📜 Certifications
 
