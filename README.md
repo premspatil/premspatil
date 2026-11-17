@@ -149,8 +149,8 @@ https://github.com/premspatil/online-exam-portal
 https://github.com/premspatil/JobTrackr
 
 ---
-ChatDoc
-AI PDF Question-Answering App (RAG)
+## ChatDoc
+### AI PDF Question-Answering App (RAG)
 
 ✔ Python
 
