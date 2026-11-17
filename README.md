@@ -149,7 +149,7 @@ https://github.com/premspatil/online-exam-portal
 https://github.com/premspatil/JobTrackr
 
 ---
-## ChatDoc
+## 🤖 ChatDoc
 ### AI PDF Question-Answering App (RAG)
 
 ✔ Python
